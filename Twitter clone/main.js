@@ -28,7 +28,7 @@ let app = new Vue({
         max_length: 25,
         max_pass_length: 16,
         error: "",
-        registered: true,
+        registered: false,
         tweetMsg: '',
         max_tweet: 200,
         tweets: []
