@@ -1,0 +1,3 @@
+Moro kaikille!!!!
+
+Haluaisin muistuttaa, että kaikkien tulee kirjoittaa funktioiden eteen täysi dokumentaatio.
